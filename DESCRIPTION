@@ -1,0 +1,8 @@
+Package: Mypackage
+Title: Oneway 
+Version: 0.0.0.9000
+Authors@R: person("Yongxu", "Huang",, "yxhuang1202@gmail.com", c("aut", "cre", "cph"))
+Description: Estimate the relevant parameters in a one-way AOV with possibly unequal sample sizes.
+Depends: R (>= 3.2.1)
+License: MIT
+LazyData: true
